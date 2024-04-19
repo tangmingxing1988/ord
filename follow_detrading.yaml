@@ -75,7 +75,7 @@ inscriptions:
 #   # inscription metaprotocol (optional)
 #   metaprotocol: DOPEPROTOCOL-42069
 
-- file: nice.txt
+- file: detrading.png
   # destination: bc1pdqrcrxa8vx6gy75mfdfj84puhxffh4fq46h3gkp6jxdd0vjcsdyspfxcv6
   metadata:
-    author: Satoshi Nakamoto
+    domain: detrading.com
