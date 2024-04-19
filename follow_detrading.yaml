@@ -22,13 +22,13 @@ reinscribe: true
 # rune to etch (optional)
 etching:
   # rune name
-  rune: FOLLOW•DETRADING
+  rune: RUNE•WITH•INSCRI
   # allow subdividing super-unit into `10^divisibility` sub-units
   divisibility: 0
   # premine
   premine: 0
   # total supply, must be equal to `premine + terms.cap * terms.amount`
-  supply: 21000000
+  supply: 2100000000
   # currency symbol
   symbol: $
   # mint terms (optional)
@@ -54,7 +54,7 @@ etching:
   turbo: true
 
 # inscriptions to inscribe
-# inscriptions:
+inscriptions:
 #   # path to inscription content
 # - file: mango.avif
 #   # inscription to delegate content to (optional)
@@ -75,7 +75,7 @@ etching:
 #   # inscription metaprotocol (optional)
 #   metaprotocol: DOPEPROTOCOL-42069
 
-# - file: tulip.png
-#   destination: bc1pdqrcrxa8vx6gy75mfdfj84puhxffh4fq46h3gkp6jxdd0vjcsdyspfxcv6
-#   metadata:
-#     author: Satoshi Nakamoto
+- file: nice.txt
+  # destination: bc1pdqrcrxa8vx6gy75mfdfj84puhxffh4fq46h3gkp6jxdd0vjcsdyspfxcv6
+  metadata:
+    author: Satoshi Nakamoto
