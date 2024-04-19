@@ -34,7 +34,7 @@ etching:
   # mint terms (optional)
   terms:
     # amount per mint
-    amount: 100.00
+    amount: 2100.00
     # maximum number of mints
     cap: 1000000
     # mint start and end absolute block height (optional)
